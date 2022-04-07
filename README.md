@@ -52,6 +52,6 @@ of the words "abacus" and "Abacus".
 
 ## You are done!
 
-Describe, the difference or lack of difference between your results
+Describe the difference or lack of difference between your results
 for case-insensitive order and dictionary order
 to you instructor for credit for the lab.
